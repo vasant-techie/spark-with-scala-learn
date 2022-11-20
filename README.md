@@ -4,6 +4,7 @@ Provided two Data Frames (DF1) and (DF2) as shown below, get the range wise outp
 
 Data Frame #1 (DF1)
 ###################
+
 ref | ver | count 
 SB1 | 1 | 100 
 SB1 | 2 | 120 
@@ -21,6 +22,7 @@ SB2 | 6 | 180
 
 Data Frame #2 (DF2)
 ###################
+
 0 to 50 
 51 to 100 
 101 to 150 
