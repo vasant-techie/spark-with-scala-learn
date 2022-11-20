@@ -29,7 +29,7 @@ SB2 | 6 | 180
 
 ### Expected Output: Range wise count
 DF3 Range | count \
-0 to 50, 4 \
+0 to 50 = 4 \
 51 to 100 = 1 \
 101 to 150 = 2 \
 151 to 350 = 4 \
