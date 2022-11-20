@@ -1,6 +1,6 @@
 # Problem Statement
 
-Provided two Data Frames (DF1) and (DF2) as shown below, get the range wise output. Expected output is shown below as well.\
+Provided two Data Frames (DF1) and (DF2) as shown below, get the range wise output. Expected output is shown below as well.
 
 ### Data Frame #1 (DF1)
 ref | ver | count \
@@ -28,7 +28,7 @@ SB2 | 6 | 180\
 1011 to 10000\
 
 ### Expected Output: Range wise count
-DF3 Range | count \ 
+DF3 Range | count \
 0 to 50, 4 \
 51 to 100 = 1 \
 101 to 150 = 2 \
