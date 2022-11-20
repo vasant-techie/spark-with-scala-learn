@@ -37,5 +37,5 @@ DF3 Range | count\
 51 to 100 = 1 \
 101 to 150 = 2 \
 151 to 350 = 4 \
- > 350 = 2 \
+Greater than 350 = 2 \
 \
