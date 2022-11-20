@@ -31,8 +31,8 @@ Data Frame #2 (DF2)\
 \
 Expected Output\
 ################\
-Range wise count\
-DF3 Range | count\ 
+Range wise count \
+DF3 Range | count \ 
 0 to 50, 4 \
 51 to 100 = 1 \
 101 to 150 = 2 \
