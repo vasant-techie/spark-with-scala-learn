@@ -25,7 +25,7 @@ SB2 | 6 | 180\
 151 to 350 \
 351 to 1000 \
 1001 to 1010 \
-1011 to 10000\
+1011 to 10000
 
 ### Expected Output: Range wise count
 DF3 Range | count \
